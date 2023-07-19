@@ -103,7 +103,7 @@ CREATE TABLE `post` (
 --
 
 INSERT INTO `post` (`id`, `userId`, `title`, `description`) VALUES
-(6, 1, '', 'puta merda'),
+(6, 1, '', 'hello'),
 (7, 1, '', '12345'),
 (8, 1, '', 'teste testando'),
 (9, 1, '', '12345678');
